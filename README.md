@@ -8,6 +8,9 @@ https://docs.google.com/presentation/d/1Vb7cY-ZewSjEygIbKtEpBgOmc1fiqK-GmXMmyw7m
 ## Все полезные файлы (в том числе выравнивания) находятся в файлах и архивах
 
 ## Общее выравнивание
+![image](https://github.com/pvpender/bioinf_project/assets/59583646/aea44f9c-d257-4abd-90bf-cf279c8c712f)
+
+
 ![image](https://github.com/pvpender/bioinf_project/assets/59583646/291ff2ba-6e8c-4605-be27-5dbe3d40c350)
 
 ![image](https://github.com/pvpender/bioinf_project/assets/59583646/3e9f5d31-7d5b-4086-8f87-15cd482d53a0)
